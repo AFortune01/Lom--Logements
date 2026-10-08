@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="badgeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f766e" />
+      <stop offset="100%" stop-color="#042f2e" />
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fbbf24" />
+      <stop offset="100%" stop-color="#d97706" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000" flood-opacity="0.35" />
+    </filter>
+  </defs>
+
+  <!-- Hexagonal / Shield Badge Background -->
+  <path d="M 256 24 
+           L 448 96 
+           L 448 336 
+           L 256 488 
+           L 64 336 
+           L 64 96 Z" 
+        fill="url(#badgeGrad)" 
+        stroke="url(#goldGrad)" 
+        stroke-width="14" 
+        filter="url(#shadow)" />
+
+  <!-- Inner Inset Border -->
+  <path d="M 256 46 
+           L 426 110 
+           L 426 324 
+           L 256 460 
+           L 86 324 
+           L 86 110 Z" 
+        fill="none" 
+        stroke="rgba(255,255,255,0.2)" 
+        stroke-width="2" 
+        stroke-dasharray="6,6" />
+
+  <!-- Star of Togo / Quality Emblem -->
+  <polygon points="256,76 266,104 296,104 272,122 281,150 256,132 231,150 240,122 216,104 246,104" fill="url(#goldGrad)" />
+
+  <!-- Stylized House with Keyhole / Door -->
+  <path d="M 256 160 L 360 248 L 330 248 L 330 350 L 182 350 L 182 248 L 152 248 Z" 
+        fill="#ffffff" />
+  
+  <!-- Chimney -->
+  <rect x="310" y="180" width="24" height="40" fill="#ffffff" />
+  
+  <!-- Doorway in house -->
+  <path d="M 236 280 A 20 20 0 0 1 276 280 L 276 350 L 236 350 Z" fill="#0f766e" />
+  
+  <!-- Windows -->
+  <rect x="198" y="240" width="24" height="24" rx="3" fill="#0f766e" />
+  <rect x="290" y="240" width="24" height="24" rx="3" fill="#0f766e" />
+
+  <!-- Banner Ribbon for LOMÉ-LOGEMENTS -->
+  <path d="M 110 375 L 402 375 L 382 425 L 256 415 L 130 425 Z" fill="url(#goldGrad)" />
+  <text x="256" y="402" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="24" fill="#0f172a" letter-spacing="2">LOMÉ</text>
+  <text x="256" y="456" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="20" fill="#f8fafc" letter-spacing="3">LOGEMENTS</text>
+</svg>

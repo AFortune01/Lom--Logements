@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "LOMÉ-LOGEMENTS",
+  "short_name": "LoméLogement",
+  "description": "Plateforme d'annonces immobilières pour le marché locatif de Lomé (Togo). Contact direct WhatsApp avec les agents.",
+  "theme_color": "#0f766e",
+  "background_color": "#f8fafc",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

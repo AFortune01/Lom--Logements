@@ -1,0 +1,719 @@
+[
+  {
+    "id": "prop-sub-tokoin",
+    "reference": "LOM-TOK-03",
+    "title": "Appartement Moderne 2 Chambres Salon – Tokoin Ramco",
+    "category": "appartement",
+    "price": 90000,
+    "cautionMonths": 3,
+    "commune": "Golfe 3",
+    "neighborhood": "Tokoin",
+    "addressDetails": "Tokoin Ramco, à 200m de la pharmacie, rue calme et sécurisée",
+    "lat": 6.155,
+    "lng": 1.205,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "surfaceM2": 75,
+    "isPremium": true,
+    "description": "Bel appartement carrelé avec grand salon lumineux, deux chambres avec placards, cuisine fermée avec placards, salle de bain moderne carrelée avec chauffe-eau, balcon personnel, compteur Cashpower individuel et eau de forage avec suppresseur.",
+    "cashpowerIndividual": true,
+    "waterSource": "forage",
+    "hasGarage": true,
+    "hasAirConditioning": false,
+    "hasFencedYard": true,
+    "isFurnished": false,
+    "hasSecurityGuard": true,
+    "hasBalconyOrTerrace": true,
+    "roadAccess": "goudron",
+    "photos": [
+      {
+        "url": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+        "label": "1. Façade extérieure de l’immeuble & Portail",
+        "stepType": "facade_entree",
+        "description": "Entrée sécurisée avec portail métallique et porche."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+        "label": "2. Intérieur : Salon aéré carrelé",
+        "stepType": "interieur",
+        "description": "Salon spacieux avec baies vitrées et balcon."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?auto=format&fit=crop&w=1200&q=80",
+        "label": "3. Intérieur : Chambre principale avec placard",
+        "stepType": "interieur",
+        "description": "Chambre bien ventilée avec rangements."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=1200&q=80",
+        "label": "4. Intérieur : Salle d’eau & Sanitaires",
+        "stepType": "interieur",
+        "description": "Douche carrelée moderne avec lavabo."
+      }
+    ],
+    "agentName": "M. Koffi Mensah (Démarcheur Tokoin)",
+    "agentWhatsApp": "22891223344",
+    "agentPhoneDisplay": "+228 91 22 33 44",
+    "publishedDate": "2026-10-07"
+  },
+  {
+    "id": "prop-kossigan",
+    "reference": "LOM-KOS-01",
+    "title": "Superbe Villa Standing 4 Chambres & Dépendance – Cité Kossigan (Lomé 2)",
+    "category": "villa",
+    "price": 350000,
+    "cautionMonths": 3,
+    "commune": "Golfe 2",
+    "neighborhood": "Lomé 2 (Cité OUA)",
+    "addressDetails": "Cité Kossigan, proche des grands axes et ambassades, quartier ultra sécurisé",
+    "lat": 6.178,
+    "lng": 1.215,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "surfaceM2": 260,
+    "isPremium": true,
+    "featuredOrder": 1,
+    "description": "Magnifique villa contemporaine située dans la prestigieuse Cité Kossigan. Comprenant un vaste salon avec baies vitrées lumineuses, 4 chambres bien ventilées avec placards, 3 salles d’eau modernes carrelées, cuisine équipée avec rangements, garage fermé pour 2 véhicules, groupe électrogène et forage d’eau avec suppresseur.",
+    "cashpowerIndividual": true,
+    "waterSource": "both",
+    "hasGarage": true,
+    "hasAirConditioning": true,
+    "hasFencedYard": true,
+    "isFurnished": false,
+    "hasSecurityGuard": true,
+    "hasBalconyOrTerrace": true,
+    "roadAccess": "goudron",
+    "photos": [
+      {
+        "url": "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80",
+        "label": "1. Façade extérieure de prestige & Porche",
+        "stepType": "facade_entree",
+        "description": "Façade contemporaine Villa Kossigan avec portail électrique et cour arborée."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80",
+        "label": "2. Intérieur : Salon principal lumineux",
+        "stepType": "interieur",
+        "description": "Grand séjour carrelé de marbre avec spots LED et excellente aération."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
+        "label": "3. Intérieur : Couloir et dégagement",
+        "stepType": "interieur",
+        "description": "Couloir de distribution aéré menant aux chambres et sanitaires."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?auto=format&fit=crop&w=1200&q=80",
+        "label": "4. Intérieur : Chambre parentale (Master Room)",
+        "stepType": "interieur",
+        "description": "Chambre spacieuse avec dressing attenant et salle d’eau privative."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?auto=format&fit=crop&w=1200&q=80",
+        "label": "5. Intérieur : Chambre 2 avec placards",
+        "stepType": "interieur",
+        "description": "Chambre avec rangements intégrés."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=1200&q=80",
+        "label": "6. Intérieur : Cuisine fermée aménagée",
+        "stepType": "interieur",
+        "description": "Cuisine moderne avec plan de travail et sorties buanderie."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=1200&q=80",
+        "label": "7. Intérieur : Salle de bain avec baignoire & douche",
+        "stepType": "interieur",
+        "description": "Sanitaires complets avec chauffe-eau électrique installé."
+      }
+    ],
+    "agentName": "LOMÉ-LOGEMENTS (Direct)",
+    "agentWhatsApp": "22893360308",
+    "agentPhoneDisplay": "+228 93 36 03 08",
+    "publishedDate": "2026-10-07"
+  },
+  {
+    "id": "prop-atchanve",
+    "reference": "LOM-AGO-01",
+    "title": "Appartement Haut Standing 2 Chambres Salon & Terrasse – Agoè Atchanvé",
+    "category": "appartement",
+    "price": 120000,
+    "cautionMonths": 3,
+    "commune": "Agoè-Nyivé 1",
+    "neighborhood": "Agoè-Nyivé",
+    "addressDetails": "Secteur Atchanvé, à 500m du grand marché et de la voie principale goudronnée",
+    "lat": 6.212,
+    "lng": 1.205,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "surfaceM2": 105,
+    "isPremium": true,
+    "featuredOrder": 2,
+    "description": "Superbe appartement contemporain dans un immeuble récent et sécurisé. Dispose de deux salons lumineux donnant sur une grande terrasse ventilée, deux chambres avec placards, deux douches internes, cuisine propre carrelée, compteur Cashpower personnel et forage d’eau.",
+    "cashpowerIndividual": true,
+    "waterSource": "forage",
+    "hasGarage": true,
+    "hasAirConditioning": false,
+    "hasFencedYard": true,
+    "isFurnished": false,
+    "hasSecurityGuard": true,
+    "hasBalconyOrTerrace": true,
+    "roadAccess": "pave",
+    "photos": [
+      {
+        "url": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+        "label": "1. Entrée sécurisée de l’immeuble",
+        "stepType": "facade_entree",
+        "description": "Accès portail en fer forgé avec interphone et gardiennage."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?auto=format&fit=crop&w=1200&q=80",
+        "label": "2. Intérieur : Salon 1 principal aéré",
+        "stepType": "interieur",
+        "description": "Pièce de vie traversante avec ouverture sur la terrasse."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+        "label": "3. Intérieur : Salon 2 & Espace repas",
+        "stepType": "interieur",
+        "description": "Deuxième espace salon convivial carrelé en grès cérame."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+        "label": "4. Intérieur : Terrasse extérieure couverte",
+        "stepType": "interieur",
+        "description": "Terrasse spacieuse pour détente en soirée."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80",
+        "label": "5. Intérieur : Chambre principale avec placard",
+        "stepType": "interieur",
+        "description": "Chambre climatisable avec fenêtre protégée par moustiquaire."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=1200&q=80",
+        "label": "6. Intérieur : Cuisine fermée avec placards",
+        "stepType": "interieur",
+        "description": "Cuisine fonctionnelle avec arrivées gaz et évier inox."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1620626011761-996317b8d101?auto=format&fit=crop&w=1200&q=80",
+        "label": "7. Intérieur : Douche et sanitaires",
+        "stepType": "interieur",
+        "description": "Douche carrelée moderne avec WC indépendant."
+      }
+    ],
+    "agentName": "LOMÉ-LOGEMENTS (Direct)",
+    "agentWhatsApp": "22893360308",
+    "agentPhoneDisplay": "+228 93 36 03 08",
+    "publishedDate": "2026-10-07"
+  },
+  {
+    "id": "prop-adougba",
+    "reference": "LOM-AGO-02",
+    "title": "Bel Appartement 2 Chambres Salon Carrelé – Agoè Adougba",
+    "category": "appartement",
+    "price": 85000,
+    "cautionMonths": 3,
+    "commune": "Agoè-Nyivé 1",
+    "neighborhood": "Agoè-Nyivé",
+    "addressDetails": "Secteur Adougba, proche école et commerces, quartier très paisible",
+    "lat": 6.216,
+    "lng": 1.198,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "surfaceM2": 78,
+    "isPremium": false,
+    "description": "Appartement propre et bien aéré comprenant un grand salon carrelé, 2 chambres indépendantes, cuisine intérieure, douche et WC, compteur Cashpower personnel, eau forage avec débit régulier, cour clôturée.",
+    "cashpowerIndividual": true,
+    "waterSource": "forage",
+    "hasGarage": true,
+    "hasAirConditioning": false,
+    "hasFencedYard": true,
+    "isFurnished": false,
+    "hasSecurityGuard": false,
+    "hasBalconyOrTerrace": false,
+    "roadAccess": "pave",
+    "photos": [
+      {
+        "url": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=1200&q=80",
+        "label": "1. Entrée du pavillon & cour",
+        "stepType": "facade_entree",
+        "description": "Façade et accès sécurisé de la concession."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?auto=format&fit=crop&w=1200&q=80",
+        "label": "2. Intérieur : Salon spacieux carrelé",
+        "stepType": "interieur",
+        "description": "Salon ventilé avec fenêtres vitrées coulissantes."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
+        "label": "3. Intérieur : Couloir intérieur",
+        "stepType": "interieur",
+        "description": "Couloir desservant les chambres et sanitaires."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80",
+        "label": "4. Intérieur : Chambre principale",
+        "stepType": "interieur",
+        "description": "Chambre avec placards intégrés."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556912172-45b7abe8b7e1?auto=format&fit=crop&w=1200&q=80",
+        "label": "5. Intérieur : Cuisine fermée",
+        "stepType": "interieur",
+        "description": "Cuisine carrelée avec rangements bas."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1584622781564-1d987f7333c1?auto=format&fit=crop&w=1200&q=80",
+        "label": "6. Intérieur : Douche privative",
+        "stepType": "interieur",
+        "description": "Sanitaire intérieur propre avec faïence."
+      }
+    ],
+    "agentName": "LOMÉ-LOGEMENTS (Direct)",
+    "agentWhatsApp": "22893360308",
+    "agentPhoneDisplay": "+228 93 36 03 08",
+    "publishedDate": "2026-10-06"
+  },
+  {
+    "id": "prop-adougba2",
+    "reference": "LOM-AGO-03",
+    "title": "Grand Appartement Familial avec Cour Dallée – Agoè Adougba 2",
+    "category": "appartement",
+    "price": 95000,
+    "cautionMonths": 3,
+    "commune": "Agoè-Nyivé 1",
+    "neighborhood": "Agoè-Nyivé",
+    "addressDetails": "Quartier Adougba 2, à proximité de l’échangeur d’Agoè",
+    "lat": 6.219,
+    "lng": 1.196,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "surfaceM2": 90,
+    "isPremium": false,
+    "description": "Logement calme et spacieux avec grande cour dallée, idéal pour famille ou couple. Comprend 2 chambres bien agencées, grand salon lumineux, cuisine spacieuse, 2 sanitaires, compteur Cashpower personnel et forage.",
+    "cashpowerIndividual": true,
+    "waterSource": "forage",
+    "hasGarage": true,
+    "hasAirConditioning": false,
+    "hasFencedYard": true,
+    "isFurnished": false,
+    "hasSecurityGuard": false,
+    "hasBalconyOrTerrace": true,
+    "roadAccess": "pave",
+    "photos": [
+      {
+        "url": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=1200&q=80",
+        "label": "1. Entrée & Portail de la résidence",
+        "stepType": "facade_entree",
+        "description": "Entrée sécurisée avec portail haut et cour dallée."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+        "label": "2. Intérieur : Cour intérieure & Stationnement",
+        "stepType": "cour_porche",
+        "description": "Cour propre et ventilée permettant le stationnement de véhicules."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1200&q=80",
+        "label": "3. Intérieur : Salon familial carrelé",
+        "stepType": "salon_sejour",
+        "description": "Salon spacieux avec double aération naturelle."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?auto=format&fit=crop&w=1200&q=80",
+        "label": "4. Intérieur : Chambre principale climatisable",
+        "stepType": "chambre",
+        "description": "Chambre avec placards intégrés et fenêtre grillagée."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80",
+        "label": "5. Intérieur : Deuxième chambre enfants / invités",
+        "stepType": "chambre",
+        "description": "Chambre secondaire indépendante et carrelée."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=1200&q=80",
+        "label": "6. Intérieur : Cuisine fermée avec rangements",
+        "stepType": "cuisine",
+        "description": "Cuisine carrelée avec plan de travail et sorties buanderie."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1584622781564-1d987f7333c1?auto=format&fit=crop&w=1200&q=80",
+        "label": "7. Intérieur : Sanitaire & Douche faïencée",
+        "stepType": "sanitaire",
+        "description": "Douche propre avec WC intérieur faïencé."
+      }
+    ],
+    "agentName": "LOMÉ-LOGEMENTS (Direct)",
+    "agentWhatsApp": "22893360308",
+    "agentPhoneDisplay": "+228 93 36 03 08",
+    "publishedDate": "2026-10-06"
+  },
+  {
+    "id": "prop-zanguera",
+    "reference": "LOM-ZAN-01",
+    "title": "Maison R+1 avec Cour Spacieuse & Balcon – Zanguéra (Axe Kpalimé)",
+    "category": "maison",
+    "price": 150000,
+    "cautionMonths": 3,
+    "commune": "Golfe 7",
+    "neighborhood": "Zanguéra",
+    "addressDetails": "Zanguéra, non loin du goudron principal menant à Kpalimé, zone calme",
+    "lat": 6.182,
+    "lng": 1.118,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "surfaceM2": 150,
+    "isPremium": true,
+    "featuredOrder": 3,
+    "description": "Belle maison à étage de construction récente. Comprend 3 grandes chambres, un salon lumineux avec de larges fenêtres donnant sur un balcon à l’étage, escalier intérieur sécurisé, cuisine avec réserve, cour fermée et compteur Cashpower individuel.",
+    "cashpowerIndividual": true,
+    "waterSource": "forage",
+    "hasGarage": true,
+    "hasAirConditioning": false,
+    "hasFencedYard": true,
+    "isFurnished": false,
+    "hasSecurityGuard": false,
+    "hasBalconyOrTerrace": true,
+    "roadAccess": "goudron",
+    "photos": [
+      {
+        "url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+        "label": "1. Façade extérieure de la maison & Porche R+1",
+        "stepType": "facade_entree",
+        "description": "Façade contemporaine R+1 avec porche couvert et balcon."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=1200&q=80",
+        "label": "2. Intérieur : Cour fermée & Garage privatif",
+        "stepType": "cour_porche",
+        "description": "Cour avant dallée avec abri voiture et espace de circulation."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80",
+        "label": "3. Intérieur : Salon principal lumineux & Baies vitrées",
+        "stepType": "salon_sejour",
+        "description": "Séjour spacieux baigné de lumière naturelle avec spots."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
+        "label": "4. Intérieur : Escalier sécurisé menant à l’étage",
+        "stepType": "degagement",
+        "description": "Escalier carrelé avec rampe de protection en inox."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?auto=format&fit=crop&w=1200&q=80",
+        "label": "5. Intérieur : Chambre principale avec balcon privatif",
+        "stepType": "chambre",
+        "description": "Chambre de l’étage avec porte-fenêtre ouvrant sur terrasse."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=1200&q=80",
+        "label": "6. Intérieur : Cuisine spacieuse avec placards",
+        "stepType": "cuisine",
+        "description": "Cuisine indépendante avec grand plan de travail."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1584622781564-1d987f7333c1?auto=format&fit=crop&w=1200&q=80",
+        "label": "7. Intérieur : Salle de bain & Sanitaires complets",
+        "stepType": "sanitaire",
+        "description": "Salle d’eau avec douche italienne et finitions soignées."
+      }
+    ],
+    "agentName": "LOMÉ-LOGEMENTS (Direct)",
+    "agentWhatsApp": "22893360308",
+    "agentPhoneDisplay": "+228 93 36 03 08",
+    "publishedDate": "2026-10-05"
+  },
+  {
+    "id": "prop-avedji1",
+    "reference": "LOM-AVE-01",
+    "title": "Studio Américain Moderne & Ventilé – Avédji (Proche Carrefour)",
+    "category": "studio",
+    "price": 50000,
+    "cautionMonths": 2,
+    "commune": "Golfe 5",
+    "neighborhood": "Avédji & Totsi",
+    "addressDetails": "Avédji, à 3 minutes du Carrefour Limousine et du marché d’Avédji",
+    "lat": 6.185,
+    "lng": 1.185,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "surfaceM2": 40,
+    "isPremium": false,
+    "description": "Studio neuf situé au rez-de-chaussée d’une villa propre. Comprend une grande pièce carrelée avec coin cuisine américaine (évier et comptoir), sanitaire intérieur impeccable, compteur Cashpower personnel et forage d’eau.",
+    "cashpowerIndividual": true,
+    "waterSource": "forage",
+    "hasGarage": false,
+    "hasAirConditioning": false,
+    "hasFencedYard": true,
+    "isFurnished": false,
+    "hasSecurityGuard": false,
+    "hasBalconyOrTerrace": false,
+    "roadAccess": "pave",
+    "photos": [
+      {
+        "url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+        "label": "1. Entrée du studio & Cour extérieure",
+        "stepType": "facade_entree",
+        "description": "Entrée sécurisée avec grille de protection et cour propre."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80",
+        "label": "2. Intérieur : Pièce de vie & Cuisine américaine",
+        "stepType": "salon_sejour",
+        "description": "Espace de vie carrelé avec coin kitchenette intégrée."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80",
+        "label": "3. Intérieur : Chambre & Coin repos",
+        "stepType": "chambre",
+        "description": "Coin nuit ventilé avec pré-installation brasseur d’air."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1620626011761-996317b8d101?auto=format&fit=crop&w=1200&q=80",
+        "label": "4. Intérieur : Douche et WC privatifs",
+        "stepType": "sanitaire",
+        "description": "Sanitaire moderne indépendant et propre."
+      }
+    ],
+    "agentName": "LOMÉ-LOGEMENTS (Direct)",
+    "agentWhatsApp": "22893360308",
+    "agentPhoneDisplay": "+228 93 36 03 08",
+    "publishedDate": "2026-10-04"
+  },
+  {
+    "id": "prop-avedji2",
+    "reference": "LOM-AVE-02",
+    "title": "Appartement Chambre-Salon Meublé Standing – Avédji 2",
+    "category": "chambre_salon",
+    "price": 110000,
+    "cautionMonths": 2,
+    "commune": "Golfe 5",
+    "neighborhood": "Avédji & Totsi",
+    "addressDetails": "Quartier résidentiel calme à Avédji, proche des commerces",
+    "lat": 6.187,
+    "lng": 1.182,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "surfaceM2": 58,
+    "isPremium": true,
+    "featuredOrder": 4,
+    "description": "Chambre-salon entièrement meublé et climatisé de haut standing. Comprend un salon avec canapé en cuir, Smart TV, chambre avec lit double king size et literie soignée, cuisine équipée avec réfrigérateur et micro-ondes, toilette indépendante et douche italienne.",
+    "cashpowerIndividual": true,
+    "waterSource": "both",
+    "hasGarage": true,
+    "hasAirConditioning": true,
+    "hasFencedYard": true,
+    "isFurnished": true,
+    "hasSecurityGuard": true,
+    "hasBalconyOrTerrace": true,
+    "roadAccess": "pave",
+    "photos": [
+      {
+        "url": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+        "label": "1. Entrée du pavillon résidentiel",
+        "stepType": "facade_entree",
+        "description": "Entrée d’immeuble avec contrôle d’accès."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+        "label": "2. Intérieur : Salon meublé design avec TV",
+        "stepType": "salon_sejour",
+        "description": "Salon décoré avec télévision écran plat et climatiseur split."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?auto=format&fit=crop&w=1200&q=80",
+        "label": "3. Intérieur : Chambre avec lit King Size",
+        "stepType": "chambre",
+        "description": "Lit double confortable et penderie intégrée."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=1200&q=80",
+        "label": "4. Intérieur : Cuisine meublée tout équipée",
+        "stepType": "cuisine",
+        "description": "Cuisine avec cuisinière à gaz, vaisselle et micro-ondes."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1584622781564-1d987f7333c1?auto=format&fit=crop&w=1200&q=80",
+        "label": "5. Intérieur : Douche et toilette italienne",
+        "stepType": "sanitaire",
+        "description": "Salle d’eau avec eau chaude et finitions inox."
+      }
+    ],
+    "agentName": "LOMÉ-LOGEMENTS (Direct)",
+    "agentWhatsApp": "22893360308",
+    "agentPhoneDisplay": "+228 93 36 03 08",
+    "publishedDate": "2026-10-04"
+  },
+  {
+    "id": "prop-avedji3",
+    "reference": "LOM-AVE-03",
+    "title": "Studio Clé en Main Meublé Smart TV – Avédji 3 (Jour & Nuit)",
+    "category": "studio",
+    "price": 80000,
+    "cautionMonths": 2,
+    "commune": "Golfe 5",
+    "neighborhood": "Avédji & Totsi",
+    "addressDetails": "Avédji, à 200m du boulevard Eyadéma",
+    "lat": 6.183,
+    "lng": 1.187,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "surfaceM2": 44,
+    "isPremium": false,
+    "description": "Studio meublé avec soin prêt à habiter. Éclairage d’ambiance jour et nuit, lit 2 places avec matelas orthopédique, télévision murale avec chaînes câblées, climatisation split, wifi haut débit, salle de bain privée avec eau chaude.",
+    "cashpowerIndividual": true,
+    "waterSource": "forage",
+    "hasGarage": true,
+    "hasAirConditioning": true,
+    "hasFencedYard": true,
+    "isFurnished": true,
+    "hasSecurityGuard": true,
+    "hasBalconyOrTerrace": false,
+    "roadAccess": "pave",
+    "photos": [
+      {
+        "url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=80",
+        "label": "1. Entrée de la résidence sécurisée",
+        "stepType": "facade_entree",
+        "description": "Hall d’entrée propre sous surveillance."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1200&q=80",
+        "label": "2. Intérieur : Salon TV & Espace détente (vue jour)",
+        "stepType": "salon_sejour",
+        "description": "Studio lumineux avec grand écran et literie complète."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?auto=format&fit=crop&w=1200&q=80",
+        "label": "3. Intérieur : Chambre ambiance nuit cosy",
+        "stepType": "chambre",
+        "description": "Éclairage tamisé reposant et climatisation silencieuse."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556912172-45b7abe8b7e1?auto=format&fit=crop&w=1200&q=80",
+        "label": "4. Intérieur : Kitchenette équipée avec frigo",
+        "stepType": "cuisine",
+        "description": "Coin cuisine prêt à l’emploi avec vaisselle."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=1200&q=80",
+        "label": "5. Intérieur : Douche moderne faïencée avec eau chaude",
+        "stepType": "sanitaire",
+        "description": "Douche avec chauffe-eau électrique et robinetterie moderne."
+      }
+    ],
+    "agentName": "LOMÉ-LOGEMENTS (Direct)",
+    "agentWhatsApp": "22893360308",
+    "agentPhoneDisplay": "+228 93 36 03 08",
+    "publishedDate": "2026-10-03"
+  },
+  {
+    "id": "prop-terrain-avedji",
+    "reference": "LOM-TER-01",
+    "title": "Terrain Nu 1 Lot 600 m² Entièrement Clôturé – Avédji (Accès Direct Rue)",
+    "category": "terrain",
+    "price": 100000,
+    "cautionMonths": 6,
+    "commune": "Golfe 5",
+    "neighborhood": "Avédji & Totsi",
+    "addressDetails": "Secteur Avédji résidentiel, à 300m de l’axe principal",
+    "lat": 6.186,
+    "lng": 1.189,
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "surfaceM2": 600,
+    "isPremium": true,
+    "featuredOrder": 5,
+    "description": "Parcelle d’un lot plein (600 m²), entièrement clôturée de hauts murs avec grand portail double battant en fer. Terrain plat et nettoyé, idéal pour stockage d’équipements, parc de stationnement de société, atelier d’artisanat ou dépôt commercial.",
+    "cashpowerIndividual": false,
+    "waterSource": "forage",
+    "hasGarage": true,
+    "hasAirConditioning": false,
+    "hasFencedYard": true,
+    "isFurnished": false,
+    "hasSecurityGuard": false,
+    "hasBalconyOrTerrace": false,
+    "roadAccess": "goudron",
+    "photos": [
+      {
+        "url": "https://images.unsplash.com/photo-1590381105924-c72589b9ef3f?auto=format&fit=crop&w=1200&q=80",
+        "label": "1. Portail métallique d’accès principal",
+        "stepType": "portail",
+        "description": "Portail large permettant l’entrée de véhicules utilitaires et camions."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1590496793929-36417d3117de?auto=format&fit=crop&w=1200&q=80",
+        "label": "2. Murs de clôture & Bornes de délimitation",
+        "stepType": "mur",
+        "description": "Murs crépis sur tout le périmètre avec délimitations bien visibles."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1577495508048-b635879837f1?auto=format&fit=crop&w=1200&q=80",
+        "label": "3. Rue d’accès principale (Voie large)",
+        "stepType": "rue",
+        "description": "Rue pavée bien dégagée reliée au réseau principal d’Avédji."
+      }
+    ],
+    "agentName": "LOMÉ-LOGEMENTS (Direct)",
+    "agentWhatsApp": "22893360308",
+    "agentPhoneDisplay": "+228 93 36 03 08",
+    "publishedDate": "2026-10-02"
+  },
+  {
+    "id": "prop-terrain-adidogome",
+    "reference": "LOM-TER-02",
+    "title": "Terrain Clôturé avec Titre Foncier – Adidogomé (Proche Douane)",
+    "category": "terrain",
+    "price": 130000,
+    "cautionMonths": 6,
+    "commune": "Golfe 7",
+    "neighborhood": "Adidogomé",
+    "addressDetails": "Adidogomé, à 400m du grand carrefour douane et de la route de Kpalimé",
+    "lat": 6.162,
+    "lng": 1.158,
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "surfaceM2": 500,
+    "isPremium": true,
+    "featuredOrder": 6,
+    "description": "Parcelle sécurisée avec Titre Foncier en règle, entourée de murs de 2,20m avec portail d’accès neuf. Emplacement stratégique pour base logistique, dépôt de matériaux ou garage fermé.",
+    "cashpowerIndividual": false,
+    "waterSource": "both",
+    "hasGarage": true,
+    "hasAirConditioning": false,
+    "hasFencedYard": true,
+    "isFurnished": false,
+    "hasSecurityGuard": false,
+    "hasBalconyOrTerrace": false,
+    "roadAccess": "goudron",
+    "photos": [
+      {
+        "url": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=1200&q=80",
+        "label": "1. Portail en fer d’entrée de la parcelle",
+        "stepType": "portail",
+        "description": "Portail robuste avec serrure et verrous de sécurité."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1590496793929-36417d3117de?auto=format&fit=crop&w=1200&q=80",
+        "label": "2. Murs de clôture & Titre Foncier",
+        "stepType": "mur",
+        "description": "Murs périmétriques réguliers avec bornes géodésiques."
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1506521781263-d8422e82f27a?auto=format&fit=crop&w=1200&q=80",
+        "label": "3. Rue d’accès directe au goudron",
+        "stepType": "rue",
+        "description": "Voie carrossable facilement accessible en toute saison."
+      }
+    ],
+    "agentName": "LOMÉ-LOGEMENTS (Direct)",
+    "agentWhatsApp": "22893360308",
+    "agentPhoneDisplay": "+228 93 36 03 08",
+    "publishedDate": "2026-10-01"
+  }
+]
